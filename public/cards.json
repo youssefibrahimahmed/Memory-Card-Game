@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "icon": "🍎",
+        "flipped": false
+    },
+    {
+        "id": 2,
+        "icon": "🍌",
+        "flipped": false
+    },
+    {
+        "id": 3,
+        "icon": "🍇",
+        "flipped": false
+    },
+    {
+        "id": 4,
+        "icon": "🍊",
+        "flipped": false
+    },
+    {
+        "id": 5,
+        "icon": "🍓",
+        "flipped": false
+    },
+    {
+        "id": 6,
+        "icon": "🍒",
+        "flipped": false
+    },
+    {
+        "id": 7,
+        "icon": "🍑",
+        "flipped": false
+    },
+    {
+        "id": 8,
+        "icon": "🍍",
+        "flipped": false
+    },
+    {
+        "id": 9,
+        "icon": "🍎",
+        "flipped": false
+    },
+    {
+        "id": 10,
+        "icon": "🍌",
+        "flipped": false
+    },
+    {
+        "id": 11,
+        "icon": "🍇",
+        "flipped": false
+    },
+    {
+        "id": 12,
+        "icon": "🍊",
+        "flipped": false
+    },
+    {
+        "id": 13,
+        "icon": "🍓",
+        "flipped": false
+    },
+    {
+        "id": 14,
+        "icon": "🍒",
+        "flipped": false
+    },
+    {
+        "id": 15,
+        "icon": "🍑",
+        "flipped": false
+    },
+    {
+        "id": 16,
+        "icon": "🍍",
+        "flipped": false
+    }
+]

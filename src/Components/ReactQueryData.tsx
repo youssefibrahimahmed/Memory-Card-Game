@@ -3,7 +3,7 @@ import axios from 'axios'
 
 
 const fetchData = async () => {
-    const res = await axios.get('http://localhost:4000/cards')
+    const res = await axios.get("/cards.json")
     return res.data
 }
 
