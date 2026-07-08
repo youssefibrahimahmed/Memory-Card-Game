@@ -10,7 +10,8 @@ A modern Memory Card Game built with **React**, **TypeScript**, **Vite**, and **
 
 ## 📸 Preview
 
-> Add a screenshot of the game here.
+> <img width="1920" height="1080" alt="Screenshot 2026-07-08 225754" src="https://github.com/user-attachments/assets/2515fb0c-49aa-425b-8c7f-b7c2cf8f6caa" />
+
 
 ```text
 public/
