@@ -1,44 +1,25 @@
-# 🧠 Memory Card Game
+# Memory Card Game
 
-A modern Memory Card Game built with **React**, **TypeScript**, **Vite**, and **TanStack Query**. The game challenges players to match identical cards while tracking their score and moves.
+A responsive memory matching game built with **React**, **TypeScript**, and **Vite**. Flip the cards, find matching pairs, and keep track of your score and moves.
 
-## 🌐 Live Demo
+## Live Demo
 
-🔗 https://memory-card-game-3i4b.vercel.app/
+[Play the game](https://memory-card-game-3i4b.vercel.app/)
 
----
+## Preview
 
-## 📸 Preview
+![Memory Card Game](https://github.com/user-attachments/assets/2515fb0c-49aa-425b-8c7f-b7c2cf8f6caa)
 
-> <img width="1920" height="1080" alt="Screenshot 2026-07-08 225754" src="https://github.com/user-attachments/assets/2515fb0c-49aa-425b-8c7f-b7c2cf8f6caa" />
+## Features
 
+- Interactive card-flipping gameplay.
+- Match pairs of identical cards.
+- Track score and number of moves.
+- Start a new game.
+- Responsive layout.
+- Fast development and production builds with Vite.
 
-```text
-public/
-└── preview.png
-```
-
-Then use:
-
-```md
-![Memory Card Game](./public/preview.png)
-```
-
----
-
-## ✨ Features
-
-- 🎮 Interactive Memory Card Game
-- 🃏 Flip and match card pairs
-- 📊 Score & Moves counter
-- 🔄 New Game button
-- ⚡ Fast performance with Vite
-- 🔍 Data fetching using TanStack Query
-- 📱 Responsive Design
-
----
-
-## 🛠️ Built With
+## Built With
 
 - React
 - TypeScript
@@ -47,75 +28,46 @@ Then use:
 - Axios
 - React Router
 - Tailwind CSS
-- JSON Server (for local development)
+- JSON Server (local development)
 
----
+## Getting Started
 
-## 📂 Project Structure
-
-```
-src/
-│
-├── Components/
-│   ├── Game.tsx
-│   ├── Header.tsx
-│   └── ReactQueryData.tsx
-│
-├── App.tsx
-├── main.tsx
-└── index.css
-```
-
----
-
-## 🚀 Getting Started
-
-### Clone the repository
+Clone the repository:
 
 ```bash
 git clone https://github.com/youssefibrahimahmed/Memory-Card-Game.git
-```
-
-### Navigate to the project
-
-```bash
 cd Memory-Card-Game
 ```
 
-### Install dependencies
+Install dependencies and start the development server:
 
 ```bash
 npm install
-```
-
-### Start the development server
-
-```bash
 npm run dev
 ```
 
----
-
-## 📦 Build for Production
+## Production Build
 
 ```bash
 npm run build
 ```
 
----
+## Project Structure
 
-## 👨‍💻 Author
+```text
+src/
+├── Components/
+│   ├── Game.tsx
+│   ├── Header.tsx
+│   └── ReactQueryData.tsx
+├── App.tsx
+├── main.tsx
+└── index.css
+```
 
-**Youssef Ibrahim**
+## Author
 
-- GitHub: https://github.com/youssefibrahimahmed
-- LinkedIn: https://www.linkedin.com/in/youssef-ibrahim-048961286/
+**Youssef Ibrahim Ahmed**
 
----
-
-## ⭐ Repository
-
-If you like this project, don't forget to leave a ⭐ on GitHub.
-
-Repository:
-https://github.com/youssefibrahimahmed/Memory-Card-Game
+- [GitHub](https://github.com/youssefibrahimahmed)
+- [LinkedIn](https://www.linkedin.com/in/youssef-ibrahim-048961286/)
